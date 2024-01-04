@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marcos
-🌱 I’m currently learning Javascript and PHP<br>📫 How to reach me marcos.almorox@gmail.com
+🌱 I’m currently learning Javascript, Python and PHP<br>📫 How to reach me marcos.almorox@gmail.com
 
 
 # 💻 Tech Stack:
