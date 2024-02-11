@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marcos
-🌱 I’m currently learning Javascript, Python and PHP<br>📫 How to reach me marcos.almorox@gmail.com
+🌱 I’m currently learning and studying web development<br>📫 How to reach me marcos.almorox@gmail.com
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
