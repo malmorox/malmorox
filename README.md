@@ -3,7 +3,6 @@
 
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,nodejs,astro,react,php,cs,java,kotlin,py,graphql,mysql,git,npm)](https://skillicons.dev)
-
 <br></br>
 ![](https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 <br></br>
