@@ -2,7 +2,7 @@
 🚀 I’m currently learning and studying for been a full stack developer<br>📫 How to reach me ➜ marcos.almorox@gmail.com
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,nodejs,astro,react,php,cs,java,kotlin,py,graphql,mysql,git,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,nodejs,astro,react,php,cs,java,py,mysql,git,npm)](https://skillicons.dev)
 <br></br>
 ![](https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 <br></br>
