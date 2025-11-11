@@ -4,6 +4,7 @@
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,nodejs,astro,react,php,cs,java,py,mysql,git,npm)](https://skillicons.dev)
 <br></br>
-![](https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=true&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malmorox&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br></br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=malmorox.malmorox&"  />
