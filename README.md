@@ -26,13 +26,13 @@
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown">
 
-<table style="border-collapse: collapse; border: none;">
+<table style="width=100%; border-collapse: collapse; border: none;">
     <tr>
-        <td width="40%" valign="top" style="padding: 0;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malmorox&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
+        <td valign="top" style="padding: 0;">
+            <img src="https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=true&count_private=false" height="165" alt="Activity Graph" /> 
         </td>
-        <td width="60%" valign="top" style="padding: 0;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=malmorox&radius=16&theme=react&area=true&order=5" height="165" alt="activity-graph" /> 
+        <td valign="top" style="padding: 0;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malmorox&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
         </td>
     </tr>
 </table>
