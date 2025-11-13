@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=28&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Marcos)](https://git.io/typing-svg) <br>
-<span style="font-size: 16px; font-family: 'Lucida Console'"> I’m currently learning and studying for been a fullstack developer. </span> <br>
+<span style="font-size: 16px; font-family: 'Lucida Console'"> I’m currently learning and studying to be a full-stack developer. </span> <br>
 
 <span style="font-size: 16px;">🎓</span>
 <span style="font-size: 14px; font-family: 'Lucida Console'"> Higher Technician in <b>Web Application Development (DAW)</b> </span> <br>
