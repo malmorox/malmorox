@@ -29,7 +29,7 @@
 <table style="width=100%; border-collapse: collapse; border: none;">
     <tr>
         <td valign="top" style="padding: 0;">
-            <img src="https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Activity Graph" /> 
+            <img src="https://github-readme-stats.vercel.app/api?username=malmorox&theme=react&hide_border=false&include_all_commits=false&count_private=false" height="165" alt="Activity Graph" /> 
         </td>
         <td valign="top" style="padding: 0;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malmorox&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
