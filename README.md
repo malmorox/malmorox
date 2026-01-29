@@ -1,14 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=28&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Marcos)](https://git.io/typing-svg) <br>
-<span style="font-size: 16px; font-family: 'Lucida Console'"> I’m currently learning and studying to be a full-stack developer. </span> <br>
+I'm a full-stack developer passionate about creating innovative solutions.
 
-<span style="font-size: 16px;">🎓</span>
-<span style="font-size: 14px; font-family: 'Lucida Console'"> Higher Technician in <b>Web Application Development (DAW)</b> </span> <br>
-<span style="font-size: 16px;">🚀</span>
-<span style="font-size: 14px; font-family: 'Lucida Console'"> Always exploring new technologies and improving my knowledge </span> <br>
-<span style="font-size: 16px;">📫</span>
-<span style="font-size: 14px; font-family: 'Lucida Console'"> Reach me at: [marcos.almorox@gmail.com](mailto:marcos.almorox@gmail.com) </span>
+🎓 Higher Technician in **Web Application Development (DAW)**  
+📚 Currently studying **Multiplatform Application Development (DAM)**  
+🚀 Always exploring new technologies and improving my knowledge  
+🌐 Check out my website: [www.marcosalmorox.es](https://www.marcosalmorox.es)  
 
-### <span style="font-family: 'Lucida Console'"> My skills </span>
+### My skills
 
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&amp;logo=typescript" alt="TypeScript">&nbsp;
@@ -25,6 +23,8 @@
 <img src="https://img.shields.io/badge/-MariaDB-05122A?style=flat&amp;logo=mariadb" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown">
+
+### Github stats
 
 <table style="width=100%; border-collapse: collapse; border: none;">
     <tr>
