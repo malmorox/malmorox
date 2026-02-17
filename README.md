@@ -20,6 +20,7 @@ I'm a full-stack developer passionate about creating innovative solutions.
 <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&amp;logo=kotlin" alt="Kotlin">&nbsp;
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-05122A?logo=Jupyter" alt="Jupyter">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=mysql" alt="MySQL">&nbsp;
 <img src="https://img.shields.io/badge/Postgres-05122A?logo=postgresql&logoColor=white" alt="Postgres">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown">
