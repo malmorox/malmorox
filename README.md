@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=28&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Marcos)](https://git.io/typing-svg) <br>
-I'm a full-stack developer passionate about creating innovative solutions.
+I'm a full-stack developer passionate about creating innovative solutions, tools and apps.
 
-🎓 Higher Technician in **Web Application Development (DAW)**  
-📚 Currently studying **Multiplatform Application Development (DAM)**  
+🎓 Higher Technician in **Web Application Development (DAW)** & **Multiplatform Application Development (DAM)**    
 🚀 Always exploring new technologies and improving my knowledge  
-🌐 Check out my website: [marcosalmorox.vercel.app](https://marcosalmorox.vercel.app/)
+🌐 Check out my website: [www.marcosalmorox.es](https://www.marcosalmorox.es/)
 
 ### My skills
 
@@ -37,5 +36,3 @@ I'm a full-stack developer passionate about creating innovative solutions.
         </td>
     </tr>
 </table>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=malmorox.malmorox&"  />
